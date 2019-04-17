@@ -1,0 +1,12 @@
+C:\Users\Adewale\source\repos\SpeedWalkerWebApi\SpeedWalkerWebApi\bin\Debug\netcoreapp2.0\SpeedWalkerWebApi.deps.json
+C:\Users\Adewale\source\repos\SpeedWalkerWebApi\SpeedWalkerWebApi\bin\Debug\netcoreapp2.0\SpeedWalkerWebApi.runtimeconfig.json
+C:\Users\Adewale\source\repos\SpeedWalkerWebApi\SpeedWalkerWebApi\bin\Debug\netcoreapp2.0\SpeedWalkerWebApi.runtimeconfig.dev.json
+C:\Users\Adewale\source\repos\SpeedWalkerWebApi\SpeedWalkerWebApi\bin\Debug\netcoreapp2.0\SpeedWalkerWebApi.dll
+C:\Users\Adewale\source\repos\SpeedWalkerWebApi\SpeedWalkerWebApi\bin\Debug\netcoreapp2.0\SpeedWalkerWebApi.pdb
+C:\Users\Adewale\source\repos\SpeedWalkerWebApi\SpeedWalkerWebApi\obj\Debug\netcoreapp2.0\SpeedWalkerWebApi.csprojResolveAssemblyReference.cache
+C:\Users\Adewale\source\repos\SpeedWalkerWebApi\SpeedWalkerWebApi\obj\Debug\netcoreapp2.0\SpeedWalkerWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Adewale\source\repos\SpeedWalkerWebApi\SpeedWalkerWebApi\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Adewale\source\repos\SpeedWalkerWebApi\SpeedWalkerWebApi\obj\Debug\netcoreapp2.0\SpeedWalkerWebApi.AssemblyInfoInputs.cache
+C:\Users\Adewale\source\repos\SpeedWalkerWebApi\SpeedWalkerWebApi\obj\Debug\netcoreapp2.0\SpeedWalkerWebApi.AssemblyInfo.cs
+C:\Users\Adewale\source\repos\SpeedWalkerWebApi\SpeedWalkerWebApi\obj\Debug\netcoreapp2.0\SpeedWalkerWebApi.dll
+C:\Users\Adewale\source\repos\SpeedWalkerWebApi\SpeedWalkerWebApi\obj\Debug\netcoreapp2.0\SpeedWalkerWebApi.pdb
